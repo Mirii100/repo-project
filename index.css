@@ -1,0 +1,37 @@
+h2{
+    color:aqua;
+    padding: 10px;
+    margin: 10px;
+    display: inline;
+}
+nav{ 
+    text-overflow: inherit;
+    text-align: center;
+    padding: 20px;margin: 10px;
+
+}
+body {
+    background-color:green;
+    color: white;
+}
+a{
+    background-color: black;
+    color:white;
+    text-align: right;
+    margin: 10px;
+    padding: 10px;
+    text-decoration: none;
+    text-decoration-color: aqua;
+    border-radius: 20px;cursor: pointer;
+}
+form{
+    color:blue;
+}
+form phonenumber{
+    max-width: max-content;
+    background-attachment: fixed;
+}
+input{
+    color: white;
+    padding:5px;margin: 15px;background-color: black;background-position-x: center;
+}
